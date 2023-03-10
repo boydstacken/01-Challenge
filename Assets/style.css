@@ -7,7 +7,9 @@
 body {
     background-color: #d9dcd6;
 }
-
+header nav {
+float: right;
+}
 /*Deleted period to match with semantic element header*/
 header {
     padding: 20px;
